@@ -69,6 +69,11 @@ IntelliWatt-AI/
 +-- README.md
 +-- requirements.txt
 ```
+## Project Updates
+
+- Blueprint / original idea: [LinkedIn Post 1](https://www.linkedin.com/posts/moses-chaitanya-981520282_python-streamlit-machinelearning-share-7459466381735153664-GVS5)
+- Working dashboard screenshot: [LinkedIn Post 2](https://www.linkedin.com/posts/moses-chaitanya-981520282_python-streamlit-machinelearning-share-7459468881699672064-OPDH)
+- Working demo video: [LinkedIn Post 3](https://www.linkedin.com/posts/moses-chaitanya-981520282_python-streamlit-machinelearning-ugcPost-7459471355265093632-sH8s)
 
 ## Future Scope
 
